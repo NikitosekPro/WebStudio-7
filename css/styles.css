@@ -1,0 +1,29 @@
+footer {
+    background-color: rgb(47, 48, 58);
+    color: white;
+}
+
+footer>a {
+    color: white;
+}
+
+footer>address>ul>li>a:first-child {
+    color: rgb(33, 150, 243);
+}
+
+footer>address>ul>li>a:nth-child(2) {
+    color: rgb(33, 150, 243);
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+article>ul>li>a {
+    color: black;
+}
